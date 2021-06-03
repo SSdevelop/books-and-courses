@@ -7,6 +7,6 @@ It contains the material related to the courses and books I study. It might cont
 *Version*: June 2018
 
 _Links to access the book_ :\
-    &nbsp;&nbsp;1. [Amazon](https://www.amazon.com/Learn-Python-Programming-no-nonsense-programming/dp/1788996666).\
-    &nbsp;&nbsp;2. [Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662).\
-    &nbsp;&nbsp;3. [Subscribe](subscription.packthub.com) to Packt.\
+    &nbsp;&nbsp;&nbsp;&nbsp;1. [Amazon](https://www.amazon.com/Learn-Python-Programming-no-nonsense-programming/dp/1788996666).\
+    &nbsp;&nbsp;&nbsp;&nbsp;2. [Packt](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662).\
+    &nbsp;&nbsp;&nbsp;&nbsp;3. [Subscribe](subscription.packthub.com) to Packt.\
