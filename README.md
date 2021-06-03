@@ -2,6 +2,7 @@
 It contains the material related to the courses and books I study. It might contain notes, practice questions, and other related material.
 
 ### 1. Learn Python Programming
+-------------------------------------------------------------
 **Author**: Fabrizio Romano
 *Version*: June 2018
 
